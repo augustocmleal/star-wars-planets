@@ -7,14 +7,14 @@ Esta API Rest foi desenvolvida utilizando Java com Spring-boot, CassandraDB e o 
 
 ### 2. Configure o CassandraDb.
 
-#### a) Após instalar e iniciar o cassandradb, inicie o utilitário cqlsh (Cassandra Query Language);
-#### b) Execute o script cql no console;
-##### O script encontra-se no diretorio src > cassandra > cql > load.cql;
+a) Após instalar e iniciar o cassandradb, inicie o utilitário cqlsh (Cassandra Query Language);
+b) Execute o script cql no console;
+O script encontra-se no diretorio src > cassandra > cql > load.cql;
 
 ### 3. Suba o spring-boot.
 
-#### a) Rode a classe StarWarsApplication para subir o spring-boot;
+a) Rode a classe StarWarsApplication para subir o spring-boot;
 
 ### 4.Documentação e exemplos de requisição:
 
-#### https://app.swaggerhub.com/apis/augustocmleal/api-star-wars/1.0
+https://app.swaggerhub.com/apis/augustocmleal/api-star-wars/1.0
