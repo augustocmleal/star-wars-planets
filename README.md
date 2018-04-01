@@ -8,7 +8,9 @@ Esta API Rest foi desenvolvida utilizando Java com Spring-boot, CassandraDB e o 
 ### 2. Configure o CassandraDb.
 
 a) Após instalar e iniciar o cassandradb, inicie o utilitário cqlsh (Cassandra Query Language);
+
 b) Execute o script cql no console;
+
 O script encontra-se no diretorio src > cassandra > cql > load.cql;
 
 ### 3. Suba o spring-boot.
