@@ -1,5 +1,5 @@
 # star-wars-planets
-## API de para consulta dados dos planetas do filme.
+## API de para consulta de dados dos planetas do filme.
 
 Esta API Rest foi desenvolvida utilizando Java com Spring-boot, CassandraDB e o maven para gerenciamento de dependencias.
 
