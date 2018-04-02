@@ -1,7 +1,7 @@
 # star-wars-planets
 ## API de para consulta de dados dos planetas do filme.
 
-Esta API Rest foi desenvolvida utilizando Java com [Spring-boot](https://github.com/spring-projects/spring-boot), [CassandraDb](https://github.com/apache/cassandra)
+Esta API Rest foi desenvolvida utilizando [Java](https://docs.oracle.com/javase/8/docs/technotes/guides/install/install_overview.html) com [Spring-boot](https://github.com/spring-projects/spring-boot), [CassandraDb](https://github.com/apache/cassandra)
  e o [Maven](https://github.com/apache/maven) para gerenciamento de dependencias.
 
 ## 1. Clone o projeto num diretorio local.
