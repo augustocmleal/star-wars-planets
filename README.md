@@ -23,4 +23,4 @@ a) Rode a classe `StarWarsApplication` para subir o spring-boot;
 
 ## 4.Documentação e exemplos de requisição:
 
-`https://app.swaggerhub.com/apis/augustocmleal/api-star-wars/1.0`
+[Star Wars API - REFERENCE](https://app.swaggerhub.com/apis/augustocmleal/api-star-wars/1.0)
