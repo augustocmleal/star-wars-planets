@@ -5,6 +5,9 @@ Esta API Rest foi desenvolvida utilizando Java com [Spring-boot](https://github.
  e o [Maven](https://github.com/apache/maven) para gerenciamento de dependencias.
 
 ## 1. Clone o projeto num diretorio local.
+a) Abra o terminal no diretorio desejado e digite:
+
+`git clone https://github.com/augustocmleal/star-wars-planets.git`
 
 ## 2. Configure o [CassandraDb](https://github.com/apache/cassandra)
 
@@ -12,7 +15,7 @@ a) Após instalar e iniciar o cassandradb, inicie o utilitário cqlsh (Cassandra
 
 b) Execute o script cql no console;
 
-O script encontra-se no diretorio `src > cassandra > cql > load.cql`
+O script encontra-se no diretorio: `src > cassandra > cql > load.cql`
 
 ## 3. Suba o [Spring-boot](https://github.com/spring-projects/spring-boot)
 
